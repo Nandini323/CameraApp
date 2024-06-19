@@ -67,3 +67,7 @@ Camera initialization :
             }
         }
     }
+
+
+
+![Screenshot_20240619-190316](https://github.com/Nandini323/CameraApp/assets/145770282/610896f1-13a0-4322-b564-160e046f2867)
