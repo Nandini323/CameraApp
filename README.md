@@ -71,3 +71,12 @@ Camera initialization :
 
 
 ![Screenshot_20240619-190316](https://github.com/Nandini323/CameraApp/assets/145770282/610896f1-13a0-4322-b564-160e046f2867)
+![Screenshot_20240619-190321](https://github.com/Nandini323/CameraApp/assets/145770282/42674bf0-9447-496d-bbf9-79def0ecde98)
+![Screenshot_20240619-190329](https://github.com/Nandini323/CameraApp/assets/145770282/c2053006-27e4-4318-b4af-1892a735a7a0)
+![Screenshot_20240619-190340](https://github.com/Nandini323/CameraApp/assets/145770282/28fd2b2d-381c-4219-bff5-dd025535bdbc)
+![Screenshot_20240619-190349](https://github.com/Nandini323/CameraApp/assets/145770282/8255e656-87ca-4f64-904b-933c35a2bc6a)
+![Screenshot_20240619-190416](https://github.com/Nandini323/CameraApp/assets/145770282/b24632aa-839d-497b-8984-1c155bad291a)
+![Screenshot_20240619-190533](https://github.com/Nandini323/CameraApp/assets/145770282/d696df67-58bd-405d-a541-7e61a4c1a6e5)
+![Screenshot_20240619-190539](https://github.com/Nandini323/CameraApp/assets/145770282/16f38be1-268b-4de8-86c6-500ef9a30c09)
+
+
